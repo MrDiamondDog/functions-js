@@ -1,0 +1,8 @@
+{
+  "name": "@mrdiamond/functionsjs",
+  "version": "1.0.1",
+  "description": "A ton of useful function so you don't have to write them.",
+  "main": "index.js",
+  "author": "MrDiamond",
+  "license": "ISC"
+}
